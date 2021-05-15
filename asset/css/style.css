@@ -69,9 +69,8 @@ body
 
 .drag-area button:hover
 {
-    color: #5256ad;
-    background: rgb(181, 181, 181);
-    transition: ease-in-out;
+    color: #383ea3;
+    background: rgba(202, 202, 202, 0.938);
     transition: 1s;
 }
 
