@@ -12,7 +12,7 @@ body
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background: #454efff1;
+  background: #4599fff1;
 }
 
 .drag-area
@@ -62,16 +62,16 @@ body
   border: none;
   outline: none;
   background: #fff;
-  color: #5256ad;
+  color: #4599fff1;
   border-radius: 5px;
   cursor: pointer;
 }
 
 .drag-area button:hover
 {
-    color: #383ea3;
+    color: #ffffff;
     background: rgba(202, 202, 202, 0.938);
-    transition: 1s;
+    transition-duration: 1s;
 }
 
 .drag-area img
